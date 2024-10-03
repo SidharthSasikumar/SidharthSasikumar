@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sidharth Sasikumar
 
-### 🚀 Senior Software Engineer | Distributed Systems Enthusiast | Cloud Native Expert
+### 🚀 Senior Software Engineer | Distributed Systems Enthusiast | Cloud Expert
 
 Welcome to my GitHub profile! I'm a passionate software engineer with extensive experience in **Golang**, **Node.js**, and **Cloud Native** technologies. I love building scalable, distributed systems and automating infrastructure on the cloud. Currently, I’m based in **Bangalore, India** 🌏.
 
