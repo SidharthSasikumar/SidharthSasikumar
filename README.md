@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sidharth Sasikumar
+# 👋 Hi, I'm Sidharth
 
 ### 🚀 Lead Software Engineer | Distributed Systems Enthusiast | Cloud Expert
 
